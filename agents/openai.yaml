@@ -1,0 +1,7 @@
+interface:
+  display_name: "Gaussian Computations"
+  short_description: "Prepare, parse, and diagnose Gaussian 16 calculations."
+  default_prompt: "Use $gaussian-computations to prepare a Gaussian 16 opt+freq input and explain the settings."
+
+policy:
+  allow_implicit_invocation: true
